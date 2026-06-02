@@ -1,0 +1,30 @@
+📌 Requirements
+Functional Requirements
+1. Student registration and login
+2. Skill entry and management
+3. Job role selection
+4. Skill gap analysis
+5. Placement probability prediction
+6. Course recommendations
+7. Admin dashboard
+
+Non-Functional Requirements
+1. Secure authentication
+2. Fast response time
+3. User friendly interface
+4. Cross browser compatibility
+5. Secure data storage
+
+Users
+- Student
+- Admin
+
+Input
+- Student name, CGPA, Skills,
+  Job role, Internship details
+
+Output
+- Skill gap report
+- Match percentage
+- Placement probability %
+- Course recommendations
