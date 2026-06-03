@@ -1,0 +1,38 @@
+👥 Users
+
+Student
+→ Register and login
+→ Enter skills and CGPA
+→ Select target job role
+→ View skill gap report
+→ View placement probability
+
+Admin
+→ Login to admin panel
+→ Add and manage job roles
+→ Add required skills per job
+→ View all student reports
+→ Monitor placement readiness
+
+🧩 Modules
+
+1. Authentication Module
+A module that handles student 
+registration, login and 
+session management
+
+2. Student Profile Module
+A module that manages student 
+skills, CGPA and internship details
+
+3. Job Role Module
+A module that handles job listings 
+and required skills per job role
+
+4. Skill Gap Analysis Module
+A module that compares student skills 
+vs job requirements and shows gap report
+
+5. Placement Prediction Module
+A module that uses ML to predict 
+student placement probability
