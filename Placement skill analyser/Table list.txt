@@ -1,0 +1,44 @@
+DATABASE REQUIREMENT ANALYSIS
+TABLE LIST
+
+TABLE 1: Student
+Purpose: Stores student details
+Columns:
+- student_id
+- name
+- email
+- password
+- cgpa
+- department
+- internship
+
+TABLE 2: Job Role
+Purpose: Stores available job roles
+Columns:
+- job_id
+- job_title
+- job_description
+
+TABLE 3: Skills
+Purpose: Stores skills each job needs
+Columns:
+- skill_id
+- skill_name
+- job_id
+
+TABLE 4: Student Skills
+Purpose: Stores skills student has
+Columns:
+- id
+- student_id
+- skill_name
+- proficiency
+
+TABLE 5: Placement Prediction
+Purpose: Stores ML prediction results
+Columns:
+- prediction_id
+- student_id
+- match_percentage
+- placement_probability
+- prediction_date
